@@ -1,0 +1,18 @@
+
+Hi,
+
+i spent 8 hours getting script below to work, that tells you the understanding i have of coding. if anyone  can walk me threw how to get this to work on my mac i will be gereatful and send 20$ paypal.
+
+this is auto hot key script
+
+
+Loop {
+    Send {-}
+    Sleep, 50000
+    Send {=}
+    Sleep, 50000
+    Send {Click}
+    Sleep, 50000
+    Send {-}
+    Sleep, 50000
+}
